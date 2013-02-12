@@ -1,0 +1,3 @@
+name    pds2png
+cflags  std=c99 ggdb Wall
+lib     libpng #sdl
