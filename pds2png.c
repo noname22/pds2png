@@ -1,3 +1,11 @@
+/* PDS2PNG 
+  Converts color images stored in NASA's Planetary Data System format from .RED/.GRN/.BLU files to PNG files.
+
+ By: Fredrik Hultin (noname@nurd.se)
+ https://github.com/noname22/pds2png 
+ License: See LICENSE (3-clause BSD)
+*/
+
 //#include <SDL.h>
 #include <stdlib.h>
 #include <stdbool.h>
