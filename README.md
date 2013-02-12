@@ -1,6 +1,6 @@
 PDS2PNG
 =======
-pds2png converts color images stored in NASA's Planetary Data System format from .RED/.GRN/.BLU files to PNG files. It can for instance be used to convert raw true color images captured by the viking landers.o
+pds2png converts color images stored in NASA's Planetary Data System format from .RED/.GRN/.BLU files to PNG files. It can for instance be used to convert raw true color images captured by the viking landers.
 
 Compiling
 ---------
