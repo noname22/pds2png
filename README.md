@@ -9,5 +9,5 @@ Compile with either spank or make. Requires libpng.
 Example Images
 --------------
 Some example images converted with PDS2PNG
-[image1]:: https://github.com/noname22/pds2png/wiki/images/11I106.jpg "Image 1"
-[image2]:: https://github.com/noname22/pds2png/wiki/images/12B069.jpg "Image 2"
+![Image1](https://github.com/noname22/pds2png/wiki/images/11I106.jpg)
+![image2](https://github.com/noname22/pds2png/wiki/images/12B069.jpg)
